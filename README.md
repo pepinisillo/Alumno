@@ -1,5 +1,5 @@
 # Alumno
-ejemplo
+ejemplo de repositorio uwu
 
 ## Hola
 ### juju
